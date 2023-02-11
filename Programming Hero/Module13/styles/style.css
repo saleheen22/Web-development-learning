@@ -1,0 +1,25 @@
+.card-background{
+    background-color: rgba(198, 166, 50, 0.514);
+    height: 550px;
+}
+.img1{
+    height: 200px;
+    width: auto;
+    justify-content: center;
+    
+}
+.card{
+    height: 500px;
+    width: 400px;
+    border-radius: 15px;
+    
+}
+.img2{
+    margin-left: 110px;
+    margin-right: 110px;
+    position: relative;
+    display: block;
+    border-radius: 50%;
+    margin-top: -80px;
+
+}
